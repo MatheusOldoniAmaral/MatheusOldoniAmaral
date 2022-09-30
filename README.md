@@ -1,8 +1,8 @@
 <h1 align="center">Olá, eu sou o Matheus Oldoni Amaral!</h1>
 
 - 🔭 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas.
-- 🌱 Estudante de JavaScript
-- 😄 Pronouns: ele/dele
+- 🌱 Estudante de JavaScript e seus Frameworks.
+- 🎈 Sou de São Paulo - SP - Brasil
 
 ##
 
