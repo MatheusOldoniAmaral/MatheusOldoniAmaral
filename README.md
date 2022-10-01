@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Matheus Oldoni Amaral!</h1>
+<h2 align="center">Olá, eu sou o Matheus!</h2>
 
 - 🔭 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas.
 - 🌱 Estudante de JavaScript e seus Frameworks.
