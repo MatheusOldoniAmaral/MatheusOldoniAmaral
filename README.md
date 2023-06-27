@@ -1,7 +1,6 @@
 <h2 align="center">Olá, eu sou o Matheus!</h2>
 
-- 🔭 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas.
-- 🌱 Estudante de JavaScript e seus Frameworks.
+- 🔭 Software Developer
 - 🎈 Sou de São Paulo - SP - Brasil
 
 ##
