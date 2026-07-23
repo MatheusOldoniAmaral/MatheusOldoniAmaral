@@ -8,7 +8,7 @@ Construindo aplicações Back-end com Java, sempre buscando escrever código lim
 
 <br>
 <p align="center">
-  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="550">
+    <img src="./assets/pixel-jeff-mario.gif" width="750"/>
 </p>
 
 </div>
