@@ -7,8 +7,9 @@
 Construindo aplicações Back-end com Java, sempre buscando escrever código limpo, escalável e de alta qualidade.
 
 <br>
-
-
+<p align="center">
+  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="550">
+</p>
 
 </div>
 
