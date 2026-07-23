@@ -8,7 +8,7 @@ Construindo aplicações Back-end com Java, sempre buscando escrever código lim
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Java+Backend+Developer;Spring+Boot;AWS+Cloud;Sempre+aprendendo+algo+novo+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Java+Backend+Developer;Spring+Boot;AWS+Cloud;Sempre+aprendendo+algo+novo+🚀"/>
 
 </div>
 
@@ -16,13 +16,13 @@ Construindo aplicações Back-end com Java, sempre buscando escrever código lim
 
 ## 👨‍💻 Sobre mim
 
-💼 Trabalho atualmente na área de Tecnologia.
+💼 Atualmente atuo na área de Tecnologia.
 
 ☕ Focado em desenvolvimento **Back-end com Java**.
 
 🚀 Estudando **Spring Boot**, **AWS** e **Engenharia de Software**.
 
-📚 Buscando evoluir diariamente através de projetos práticos.
+📚 Acredito que a evolução acontece através da prática, estudo e construção de projetos.
 
 🎯 Objetivo: atuar como **Software Engineer**.
 
@@ -52,7 +52,7 @@ Construindo aplicações Back-end com Java, sempre buscando escrever código lim
 
 </p>
 
-### 🛠 Ferramentas
+### 🛠️ Ferramentas
 
 <p>
 
@@ -86,26 +86,17 @@ Construindo aplicações Back-end com Java, sempre buscando escrever código lim
 
 Em breve você encontrará aqui projetos que representam minha evolução como desenvolvedor.
 
-- 🚀 API REST com Spring Boot
-- ☕ Sistema Bancário em Java
-- 📦 CRUD Completo
-- ☁️ Integração com AWS
+🚀 API REST com Spring Boot
+
+☕ Sistema Bancário em Java
+
+📦 CRUD Completo
+
+☁️ Integração com AWS
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MatheusOldoniAmaral&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusOldoniAmaral&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🤝 Contato
+## 🤝 Vamos nos conectar
 
 <div align="center">
 
@@ -123,7 +114,7 @@ Em breve você encontrará aqui projetos que representam minha evolução como d
 
 <div align="center">
 
-> *"Código limpo. Aprendizado constante. Evolução diária."*
+> **"Código limpo. Aprendizado constante. Evolução diária."**
 
 </div>
 
