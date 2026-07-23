@@ -8,7 +8,9 @@ Construindo aplicações Back-end com Java, sempre buscando escrever código lim
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Java+Backend+Developer;Spring+Boot;AWS+Cloud;Sempre+aprendendo+algo+novo+🚀"/>
+<p align="center">
+  <img src="https://media.tenor.com/QVC1Nmb9TwUAAAAC/mario.gif" width="500">
+</p>
 
 </div>
 
