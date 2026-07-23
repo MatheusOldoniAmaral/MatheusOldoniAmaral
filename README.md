@@ -140,9 +140,3 @@ public class Matheus {
 ```
 
 ---
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=MatheusOldoniAmaral&style=for-the-badge&color=0E75B6"/>
-
-</div>
