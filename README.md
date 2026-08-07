@@ -123,7 +123,7 @@ public class Matheus {
 
 <table>
   <tr>
-    <td><img src="https://github-stats-extended.vercel.app/api?username=MatheusOldoniAmaral&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" /></td>
+    <td><img src="https://github-stats-extended.vercel.app/api?username=MatheusOldoniAmaral&show_icons=true&theme=dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /></td>
     <td><img src="https://streak-stats.demolab.com/?user=MatheusOldoniAmaral&theme=dark&hide_border=true" alt="GitHub Streak" /></td>
   </tr>
   <tr>
