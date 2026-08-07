@@ -123,11 +123,11 @@ public class Matheus {
 
 <table>
   <tr>
-    <td><img src="https://github-stats-extended.vercel.app/api?username=MatheusOldoniAmaral&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /></td>
-    <td><img src="https://streak-stats.demolab.com/?user=MatheusOldoniAmaral&theme=radical&hide_border=true" alt="GitHub Streak" /></td>
+    <td><img src="https://github-stats-extended.vercel.app/api?username=MatheusOldoniAmaral&show_icons=true&theme=synthwave&hide_border=true" alt="GitHub Stats" /></td>
+    <td><img src="https://streak-stats.demolab.com/?user=MatheusOldoniAmaral&theme=synthwave&hide_border=true" alt="GitHub Streak" /></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusOldoniAmaral&theme=redical" alt="Activity Graph" /></td>
+    <td colspan="2" align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusOldoniAmaral&theme=synthwave" alt="Activity Graph" /></td>
   </tr>
 </table>
 
