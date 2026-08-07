@@ -127,7 +127,7 @@ public class Matheus {
     <td><img src="https://streak-stats.demolab.com/?user=MatheusOldoniAmaral&theme=dark&hide_border=true" alt="GitHub Streak" /></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusOldoniAmaral&theme=react-dark" alt="Activity Graph" /></td>
+    <td colspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api?username=MatheusOldoniAmaral&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" alt="GitHub Stats" /></td>
   </tr>
 </table>
 
