@@ -118,5 +118,5 @@ public class Matheus {
 
 }
 ```
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=MatheusOldoniAmaral&theme=dark&hide_border=true)
 ---
